@@ -1,0 +1,5 @@
+{
+  "name": "EtherQuant Dashboard",
+  "description": "Institutional-grade DeFi dashboard visualizing real-time ETH price action with probabilistic cone-of-uncertainty projections based on Geometric Brownian Motion.",
+  "requestFramePermissions": []
+}
